@@ -3,3 +3,6 @@
 *.net
 
 !sixth.net
+
+
+[aeiou]*.java
